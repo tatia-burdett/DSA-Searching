@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import LinearSearch from './LinearSearch'
 import './index.css';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+
+ReactDOM.render(
+  <LinearSearch />, 
+  document.getElementById('root')
+);

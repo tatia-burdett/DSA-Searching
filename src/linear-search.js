@@ -1,3 +1,0 @@
-function indexOf(array, value) {
-  
-}
